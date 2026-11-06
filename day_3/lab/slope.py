@@ -29,7 +29,7 @@ m = 8 / 4 = 2
 ================================================================================
 """
 
-from day_1.euclidean_distance import euclidean_distance
+from day_1.lab.euclidean_distance import euclidean_distance
 
 distance = euclidean_distance([2,2], [6,10])
 
