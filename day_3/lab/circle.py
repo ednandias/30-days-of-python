@@ -1,4 +1,4 @@
-from day_2.lab.circle import calculate_area, calculate_circum
+from day_2.lab.script import calculate_area, calculate_circum
 
 radius = float(input('Radius of circle: '))
 
