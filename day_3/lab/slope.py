@@ -35,7 +35,6 @@ distance = euclidean_distance([2,2], [6,10])
 
 print('Distância Euclidiana:',distance)
 
-
 # 11. Calculate the value of y (y = x^2 + 6x + 9). Try to use different x values and figure out at what x value y is going to be 0.
 y = (-3) ** 2 + 6 * (-3) + 9
 
